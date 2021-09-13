@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cgi": "perl",
+        "iostream": "cpp",
+        "string": "cpp",
+        "istream": "cpp"
+    }
+}
